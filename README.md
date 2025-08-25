@@ -55,6 +55,7 @@ Its a demo restaurants app.
 # To view the app:
 Download Expo Go app and scan the below QR code:
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9cec5db3-9bdc-417a-8b9c-43df714b85b9" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4ee564de-7250-4ceb-89de-7ba97e6f5b2d" />
+
 
 >>>>>>> a2c5790fbfb81ecbe2e90c56892d4a130bcd4ac7

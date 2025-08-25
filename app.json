@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "02-MealsToGo",
-    "slug": "02-MealsToGo",
+    "name": "MealsToGo",
+    "slug": "MealsToGo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "02mealstogo",
+    "scheme": "mealstogo",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -29,9 +29,28 @@
         }
       ],
       "expo-font",
+       [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
+          "recordAudioAndroid": true
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b56ff181-32e2-4d7e-aabf-04b8ed32db24"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b56ff181-32e2-4d7e-aabf-04b8ed32db24"
     }
   }
 }

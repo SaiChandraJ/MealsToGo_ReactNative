@@ -8,7 +8,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 1. Install dependencies
 
    ```bash
-   npm install
+   yarn install
    ```
 
 2. Start the app
@@ -50,6 +50,11 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 =======
-# MealsToGo_ReactNative
+# MealsToGo
 Its a demo restaurants app.
+# To view the app:
+Download Expo Go app and scan the below QR code:
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9cec5db3-9bdc-417a-8b9c-43df714b85b9" />
+
 >>>>>>> a2c5790fbfb81ecbe2e90c56892d4a130bcd4ac7
